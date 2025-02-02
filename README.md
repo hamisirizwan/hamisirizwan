@@ -15,9 +15,9 @@ Welcome to my GitHub! I'm a passionate software developer, indie founder, and li
 - **Data Compliance for EdTech:** Developing a platform to help educational institutions manage data privacy and compliance effectively.
 
 ## Let’s Connect! 🌐
-- **TikTok:** [@rizwancodes](https://www.tiktok.com/@devriz) — Follow my coding journey and join me in my challenges!
+- **TikTok:** [@devriz](https://www.tiktok.com/@dev.riz) — Follow my coding journey and join me in my challenges!
 - **LinkedIn:** [Rizwan](https://www.linkedin.com/in/rizwanhamisi) — Let’s connect professionally!
-- **Twitter:** [@rizwandev](https://twitter.com/devriz) — Catch my latest thoughts on tech and more.
+- **Twitter/X:** [@RizwanHamisi](https://x.com/RizwanHamisi) — Catch my latest thoughts on tech and more.
 
 ## Fun Facts 🎉
 - I believe in learning by doing, which is why I often participate in hackathons and coding challenges.
